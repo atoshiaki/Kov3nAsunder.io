@@ -1,0 +1,34 @@
+
+body{
+    background-color: rgb(240, 240, 240); /* The page background will be Light silver */
+    color: black; /* The page text will be white */
+}
+section{
+    width: 600px;
+    border: 30px solid rgb(223, 61, 196);
+    padding: 100px;
+    margin: 40px;
+}
+h2{
+    font-size: xx-large;
+}
+h3{
+    font-size: small;
+    width: 300px;
+    border: 15px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin: 20px;
+}
+
+.Members {
+    font-size: x-large;
+
+}
+#Kov3nAsunder{
+    height: 160px;
+    width: 160px;
+}
+#twitch{
+    height: 80px;
+    width: 120px;
+}
